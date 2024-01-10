@@ -15,12 +15,6 @@ void loop() {
   delay(500);
   RGBColor(0,0,255);
   delay(500);
-  RGBColor(255,255,255);
-  delay(500);
-  RGBColor(255,165,0);
-  delay(500);
-  RGBColor(156,34,93);
-  delay(500);
 }
 
 void RGBColor(int red,int green,int blue)

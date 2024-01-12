@@ -1,5 +1,5 @@
 # IoThings
-## EXP1:
+## Experiment 1:
 1. [Blink LED](https://www.tinkercad.com/things/hQsR2IbqvVj-glorious-kieran-fyyran/editel?tenant=circuits)
 2. [Multicolor LED](https://www.tinkercad.com/things/hTa5Kfd7wKy-terrific-jaagub/editel?sharecode=Dw84Z2BPEJctr4AiTFRbw2fUU70O7BMsX84IwsSphvA)
 ## EXP2:

@@ -11,8 +11,8 @@
 
 
 ## Experiment 3:
-1. [Potentiometer](https://www.tinkercad.com/things/dZ7geLclwQN-fabulous-lappi-allis/editel?sharecode=v48gqDurPyRYoDrvQGHqlXZKiwLy2xYV--LHOpWOdJ0)
-2. [Basic](https://tsparticles.github.io/404-templates/imposter/404.html)
+1. [Potentiometer](https://www.tinkercad.com/things/dt4sDB6EqBM-copy-of-ledbrightnesspotentiometer/editel?tenant=circuits) 
+2. [LED Brightness Control](https://www.tinkercad.com/things/dZ7geLclwQN-fabulous-lappi-allis/editel?sharecode=v48gqDurPyRYoDrvQGHqlXZKiwLy2xYV--LHOpWOdJ0)
 
 ## Experiment 4:
 1. [Potentiometer]()

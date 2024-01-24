@@ -6,7 +6,7 @@
 
 
 ## Digital I/O Interface-IR and Slot:
-1. [IRSensor](https://www.tinkercad.com/things/edYdzlHsfc5-copy-of-ir-sensor/editel?sharecode=I54knkfGqPyaCP__DgbhBNU89P7_r9DptQOjX0loX5w)
+1. [IR Sensor](https://www.tinkercad.com/things/edYdzlHsfc5-copy-of-ir-sensor/editel?sharecode=I54knkfGqPyaCP__DgbhBNU89P7_r9DptQOjX0loX5w)
 2. [Slot Sensor](https://tsparticles.github.io/404-templates/imposter/404.html)
 
 

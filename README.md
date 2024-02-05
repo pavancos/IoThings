@@ -1,4 +1,4 @@
-# IoThings
+# Internet of Things
 
 ## Digital I/O Interface-Blink and Multicolor:
 1. [Blink LED](https://www.tinkercad.com/things/hQsR2IbqvVj-glorious-kieran-fyyran/editel?tenant=circuits)

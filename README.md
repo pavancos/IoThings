@@ -14,6 +14,6 @@
 1. [Potentiometer](https://www.tinkercad.com/things/dt4sDB6EqBM-copy-of-ledbrightnesspotentiometer/editel?tenant=circuits) 
 2. [LED Brightness Control](https://www.tinkercad.com/things/dZ7geLclwQN-fabulous-lappi-allis/editel?sharecode=v48gqDurPyRYoDrvQGHqlXZKiwLy2xYV--LHOpWOdJ0)
 
-## 6. Serial Communication:
+## Serial Communication:
 1. [Device Control](https://www.tinkercad.com/things/cjEeKqR1TRK-mighty-maimu-waasa/editel?tenant=circuits)
 2. [Device Control](https://www.tinkercad.com/things/cjEeKqR1TRK-mighty-maimu-waasa/editel?tenant=circuits)
